@@ -931,7 +931,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay Rs.69,000 to` [Spyder](https://t.me/spyderzzz/) `to Remove This Hack...`\n"
+                "`Pay Rs.69,000 to` [anonyCrew](https://t.me/anonyCrew/) `to Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
@@ -941,7 +941,7 @@ async def killing (killed):
         if await killed.get_reply_message():
             await killed.edit(
                 "`Targeted user killed by Headshot 😈......`\n"
-		"#Sad_Reacts_Onli\n"
+		"#Coz_he_is_bot\n"
             )
 			  
 @register(outgoing=True, pattern="^.bt$")
