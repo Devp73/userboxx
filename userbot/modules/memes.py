@@ -26,14 +26,14 @@ from userbot.events import register
 
 # ================= CONSTANT =================
 METOOSTR = [
-    "`Me too thanks`",
-    "`Haha yes, me too`",
-    "`Same lol`",
-    "`Me irl`",
-    "`HA me bhi bhai bsdk!`",
-    "`Same here`",
-    "`Haha yes`",
-    "`Same pinch bsdk`",
+    "`Hey Nub I knew Uh iz Nub But act like a pro`",
+    "`Trying Like Peru haha Nub`",
+    "`Hey Nub I think Uh Are From Mars Coz Uh live Without Brain`",
+    "`Oye hoyee Land wala Pro aya`",
+    "`Getting Kensur iz Greater that your advice!`",
+    "`Gey you Know Every Nub iz a pro and pro iz nub and you are pro Xd:)`",
+    "`You are ultra pro you can live without oxygen uh have to try once`",
+    "`Bhago Bc Bsdk gey aya`",
 ]
 NOOBSTR = [
     "`YOU PRO NIMBA DONT MESS WIDH MEH`",
