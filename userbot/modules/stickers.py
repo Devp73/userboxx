@@ -235,7 +235,7 @@ async def kang(args):
                 await bot.send_read_acknowledge(conv.chat_id)
 
         await args.edit(
-            f"Sticker Stolen! Now run away with [this](t.me/addstickers/{packname})",
+            f"Sticker Stolen! Now run away gib moni and take [this](t.me/addstickers/{packname})",
             parse_mode='md')
 
 
