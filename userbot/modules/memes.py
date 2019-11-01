@@ -981,10 +981,10 @@ async def raping (raped):
 @register(outgoing=True, pattern="^.boob$")
 async def raping (boobs):
     """ Dont show boob bhay -_-"""
-    if not raped.text[0].isalpha() and boobs.text[0] not in ("/", "#", "@", "!"):
+    if not boobs.text[0].isalpha() and boobs.text[0] not in ("/", "#", "@", "!"):
         index = random.randint(0, len(BOOB_STRINGS) - 1)
         reply_text = BOOB_STRINGS[index]
-        await raped.edit(reply_text)
+        await boobs.edit(reply_text)
 			  
 @register(outgoing=True, pattern="^.pro$")
 async def proo (pros):
